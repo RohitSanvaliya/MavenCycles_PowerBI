@@ -17,9 +17,9 @@ This Power BI report, hosted in a GitHub repository, offers dynamic dashboards w
 
 
 ## Repository Structure
-- **MavenCycle.pbix**: Project file defining the report (`MavenCycle.Report`).
-- **Datasets**: Source data files for the report.
-- **Documentation**: Guides for data sources and DAX queries.
+- **MavenCycles_SalesDashboard.pbix**: Project file defining the report.
+- **Datasets**: Source data files for the report as 'Raw Data Files'.
+
 
 
 ## 🛠️ Built With
