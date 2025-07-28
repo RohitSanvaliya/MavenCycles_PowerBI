@@ -3,7 +3,7 @@
 An interactive Power BI dashboard to analyze sales, profit, and regional trends for Maven Cycles from 2015 to 2020. Designed for executives and sales managers to monitor KPIs and uncover actionable insights.
 
 
-## Objective
+## 🎯Objective
 The MavenCycle Power BI report is designed to support learning and practice for the PL-300 Microsoft Power BI Data Analyst certification. It provides hands-on experience with creating interactive visualizations, managing datasets, applying DAX queries, row level security, and publishing dasboard and creating an Power Bi application helping  master data modeling, report design, and analytics.
 
 **Below are business questions answered:**
@@ -12,7 +12,7 @@ The MavenCycle Power BI report is designed to support learning and practice for 
 - Visualize sales by region, product, and time
 - Understand customer segments and trends
 
-## Overview
+## 📊Overview
 This Power BI report, hosted in a GitHub repository, offers dynamic dashboards with charts and slicers for analyzing KPIs like sales and operational metrics. It leverages version control for collaboration and ensures data freshness, serving as a practical tool for PL-300 skill development.
 
 
