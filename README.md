@@ -4,7 +4,7 @@ An interactive Power BI dashboard to analyze sales, profit, and regional trends 
 
 
 ## 🎯Objective
-The MavenCycle Power BI report is designed to support learning and practice for the PL-300 Microsoft Power BI Data Analyst certification. It provides hands-on experience with creating interactive visualizations, managing datasets, applying DAX queries, row level security, and publishing dasboard and creating an Power Bi application helping  master data modeling, report design, and analytics.
+The Sales Power BI report is designed to support learning and practice for the PL-300 Microsoft Power BI Data Analyst certification. It provides hands-on experience with creating interactive visualizations, managing datasets, applying DAX queries, row level security, and publishing dasboard and creating an Power Bi application helping  master data modeling, report design, and analytics.
 
 **Below are business questions answered:**
 - Track total revenue, profit, and profit margins
@@ -17,7 +17,7 @@ This Power BI report, hosted in a GitHub repository, offers dynamic dashboards w
 
 
 ## Repository Structure
-- **MavenCycles_SalesDashboard.pbix**: Project file defining the report.
+- **SalesDashboard.pbix**: Project file defining the report.
 - **Datasets**: Source data files for the report as 'Raw Data Files'.
 
 
@@ -31,7 +31,7 @@ This Power BI report, hosted in a GitHub repository, offers dynamic dashboards w
 
 ## 🚀 How to Use
 
-1. Download and open `MavenCycles_SalesDashboard.pbix` in Power BI Desktop
+1. Download and open `SalesDashboard.pbix` in Power BI Desktop
 2. Load the dataset or update data source if needed
 3. Use slicers and filters to explore different views
 4. Publish to Power BI Service if needed for sharing
